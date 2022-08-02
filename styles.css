@@ -65,7 +65,7 @@ body {
 
 .accor {
   display: grid;
-  grid-template-columns: 600px 1fr;
+  grid-template-columns: 598px 1fr;
 }
 
 .accor__left {
